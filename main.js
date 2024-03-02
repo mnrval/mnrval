@@ -11,7 +11,7 @@ import './config.js';
 
 import {
     createRequire
-} from 'module';
+} from "module";
 import path, {
     join
 } from 'path';
